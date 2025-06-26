@@ -45,3 +45,6 @@ The third phase is when the coffee is served. On the screen, you can see a bar s
 During Phase 1 and Phase 2, if we have a low water level, a message will appear that will persist as long as the water level is low. If, during Phase 1 and 2, the water level is 0, then everything blocks, and an error message appears. Until the water tank is refilled, we cannot return to the state we were in.
 
 My code is structured using state machines, so that when a button is pressed, it checks which button was pressed, changes states if necessary, and updates the screen.
+
+
+![alt text](https://github.com/Fr4n9/CoffeeMakerSimulation_Proteus/blob/main/ImageProject.png)
